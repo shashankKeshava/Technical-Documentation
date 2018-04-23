@@ -25,3 +25,4 @@ A documentation for all technical needs
 
 # Cool Projects
 1. [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
+2. [Codefight - Practise Programming Skills](https://codefights.com/)
